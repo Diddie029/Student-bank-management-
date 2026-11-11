@@ -1,3 +1,3 @@
 # Student-Results-management-Sys
 
-HTML + JAVASCRIPT+ PYTHON!!
+HTML + JAVASCRIPT+ CSS!!
